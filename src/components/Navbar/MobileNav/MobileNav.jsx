@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 // import React from 'react'
 import './MobileNav.css'
+=======
+ import React from 'react'
+// import './MobileNav.css'
+>>>>>>> d10f8316079950e4d623acd0a9e55f8f2b115a11
 
 // export const MobileNav = ({ isOpen, toggleMenu}) => {
 //   return (
