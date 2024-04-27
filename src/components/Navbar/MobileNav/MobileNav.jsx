@@ -1,5 +1,5 @@
 // import React from 'react'
-// import './MobileNav.css'
+import './MobileNav.css'
 
 // export const MobileNav = ({ isOpen, toggleMenu}) => {
 //   return (
